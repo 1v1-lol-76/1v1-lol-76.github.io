@@ -1,0 +1,38 @@
+body.light{
+    --bg-accent1: rgb(237 211 203);
+    --bg-accent2: rgb(147 147 147);
+    --text-color1: rgb(0, 0, 0);
+    --text-shadow: rgba(235, 235, 235, 0.5);
+    --btn-accent: rgba(195, 195, 195);
+    --btn-accent2: rgba(195, 195, 195, 0.75);
+    --btn-box-shadow: rgba(185, 185, 185, 0.5);   
+    --nav-box-hover: var(
+    --text-color1);
+}
+
+body.amoled{
+    --bg-accent1: rgb(0, 0, 0);
+    --bg-accent2: var(--bg-accent1);
+    --text-color1: rgb(255, 255, 255);
+    --text-shadow: var(--bg-accent1);
+    --btn-accent: var(--bg-accent1);
+    --btn-accent2: var(--bg-accent1);
+    --btn-box-shadow: var(--bg-accent1);
+    --nav-box-hover: var(--bg-accent1);
+}
+
+body{
+    background: var(--bg-accent1);
+
+    --btn-rounding: 15px;
+
+       --bg-accent1: rgb(237 211 203);
+    --bg-accent2: rgb(147 147 147);
+    --text-color1: rgb(0, 0, 0);
+    --text-shadow: rgba(235, 235, 235, 0.5);
+    --btn-accent: rgba(195, 195, 195);
+    --btn-accent2: rgba(195, 195, 195, 0.75);
+    --btn-box-shadow: rgba(185, 185, 185, 0.5);   
+    --nav-box-hover: var(
+    --text-color1);
+}

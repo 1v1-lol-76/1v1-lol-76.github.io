@@ -1,0 +1,145 @@
+[ 
+  {
+    "gameroot": "yohoho/",
+    "game": "1-Yohoho"
+  },
+  
+    {
+    "gameroot": "y2/",
+    "game": "2-Yohoho"
+  },
+  
+  { 
+    "gameroot": "paperio2/",
+    "game": "2-paperio2"
+  },
+  {
+    "gameroot": "paperio3/",
+    "game": "3-paperio3"
+  },
+
+  {
+    "gameroot": "1v1lol/",
+    "game": "1v1lol"
+  },
+    {
+    "gameroot": "DriftBoss/",
+    "game": "DriftBoss"
+  },
+      {
+    "gameroot": "Madalin/",
+    "game": "MadalinStuntCar"
+  },
+  {
+    "gameroot": "2048/",
+    "game": "2048"
+  },
+  {
+    "gameroot": "AmongUs/",
+    "game": "Among Us"
+  },
+  {
+    "gameroot": "DuckLife5/",
+    "game": "Duck Life 5"
+  },
+  {
+    "gameroot": "FridayNightFunkin/",
+    "game": "Friday Night Funkin"
+  },
+  {
+    "gameroot": "FunnyShooter2/",
+    "game": "Funny Shooter 2"
+  },
+  {
+    "gameroot": "Minecraft15/",
+    "game": "Minecraft 1.5"
+  },
+  {
+    "gameroot": "Minecraft18/",
+    "game": "Minecraft 1.8"
+  },
+  {
+    "gameroot": "MotoX3M/",
+    "game": "Moto X3M"
+  },
+  {
+    "gameroot": "RiddleSchool5/",
+    "game": "Riddle School 5"
+  },
+  {
+    "gameroot": "RooftopSnipers/",
+    "game": "Rooftop Snipers"
+  },
+  {
+    "gameroot": "Slope/",
+    "game": "Slope"
+  },
+  {
+    "gameroot": "SubwaySurfers/",
+    "game": "Subway Surfers"
+  },
+  {
+    "gameroot": "SuperMario64/",
+    "game": "Super Mario 64"
+  },
+  {
+    "gameroot": "TunnelRush/",
+    "game": "Tunnel Rush"
+  },
+    {
+    "gameroot": "DriveMad/",
+    "game": "Drive Mad"
+  },
+    {
+    "gameroot": "BitLife/",
+    "game": "Bit Life"
+  },
+    {
+    "gameroot": "BasketStars/",
+    "game": "Basket Stars"
+  },
+    {
+    "gameroot": "TinyFishing/",
+    "game": "Tiny Fishing"
+  },
+    {
+    "gameroot": "RetroBowl/",
+    "game": "Retro Bowl"
+  },
+    {
+    "gameroot": "BasketRandom/",
+    "game": "Basket Random"
+  },
+    {
+    "gameroot": "CookieClicker/",
+    "game": "Cookie Clicker"
+  },
+    {
+    "gameroot": "BaldisBasics/",
+    "game": "Baldis Basics"
+  },
+    {
+    "gameroot": "GettingOverIt/",
+    "game": "Getting Over It"
+  },
+    {
+    "gameroot": "GetawayShootout/",
+    "game": "Getaway Shootout"
+  },
+    {
+    "gameroot": "Backrooms3D/",
+    "game": "Backrooms 3D"
+  },
+    {
+    "gameroot": "DogeMiner/",
+    "game": "Doge Miner"
+  },
+    {
+    "gameroot": "ElasticFace/",
+    "game": "Elastic Face"
+  },
+  {
+    "gameroot": "VexV7/",
+    "game": "Vex V7"
+  }
+]

@@ -1,0 +1,82 @@
+RewriteEngine On
+
+Redirect 301 ads.txt https://data.adinplay.com/ads/paperio9.com/ads.txt
+
+
+RewriteRule ^share/(.*)/(.*)$ share.php?score=$1&time=$2 [L]
+RewriteRule ^saveScore.py$ skorkaydet.php [L]
+RewriteRule ^connect.websocket$ css.js [L]
+RewriteRule ^server-select.websocket$ new.js [L]
+RewriteRule ^scoreList.jsp$ hihg_scores_per.php [L]
+RewriteRule ^showScore.jsp$ detay.php [L]
+
+RewriteRule ^play-(.*).html$ play.php?oyun_url=$1 [L]
+
+
+<IfModule mod_expires.c>
+  ExpiresActive On
+
+ # CSS, JavaScript
+  ExpiresByType text/css "access plus 1 year"
+  ExpiresByType text/javascript "access plus 1 year"
+  ExpiresByType application/javascript "access plus 1 year"
+
+ # Fonts
+  ExpiresByType font/ttf "access plus 1 year"
+  ExpiresByType font/otf "access plus 1 year"
+  ExpiresByType font/woff "access plus 1 year"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType application/font-woff "access plus 1 year"
+
+ # Images
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType image/gif "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/svg+xml "access plus 1 year"
+  ExpiresByType image/x-icon "access plus 1 year"
+
+  # Video
+  ExpiresByType video/webm "access plus 1 year"
+  ExpiresByType video/mp4 "access plus 1 year"
+  ExpiresByType video/mpeg "access plus 1 year"
+
+  # Others
+  ExpiresByType application/pdf "access plus 1 year"
+  ExpiresByType image/vnd.microsoft.icon "access plus 1 year"
+</IfModule>
+
+SetEnvIfNoCase User-Agent .rogerbot. bad_bot
+SetEnvIfNoCase User-Agent .exabot. bad_bot
+SetEnvIfNoCase User-Agent .mj12bot. bad_bot
+SetEnvIfNoCase User-Agent .dotbot. bad_bot
+SetEnvIfNoCase User-Agent .gigabot. bad_bot
+SetEnvIfNoCase User-Agent .ahrefsbot. bad_bot
+SetEnvIfNoCase User-Agent .sitebot. bad_bot
+<Limit GET POST HEAD>
+Order Allow,Deny
+Allow from all
+Deny from env=bad_bot
+</Limit>
+ 
+ErrorDocument 400 /
+ErrorDocument 401 /
+ErrorDocument 402 /
+ErrorDocument 403 /
+ErrorDocument 404 /404.php
+ErrorDocument 405 /
+ErrorDocument 406 /
+ErrorDocument 407 /
+ErrorDocument 408 /
+ErrorDocument 409 /
+ErrorDocument 410 /
+ErrorDocument 411 /
+ErrorDocument 412 /
+ErrorDocument 413 /
+ErrorDocument 414 /
+ErrorDocument 500 /
+ErrorDocument 501 /
+ErrorDocument 502 /
+ErrorDocument 503 /
+ErrorDocument 504 /
+ErrorDocument 505 /

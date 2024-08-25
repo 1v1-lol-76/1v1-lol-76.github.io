@@ -1,0 +1,463 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="97px" height="149px" viewBox="0 0 97 149">
+<defs>
+<filter id="Filter_1" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.3 0" result="result1"/>
+</filter>
+
+<filter id="Filter_2" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.4 0" result="result1"/>
+</filter>
+
+<filter id="Filter_3" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+<feColorMatrix in="SourceGraphic" type="matrix" values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.15 0" result="result1"/>
+</filter>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_FILL">
+<path fill="#4F0808" stroke="none" d="
+M 25.4 52.75
+Q 20.45 56.1 18.4 61.4 16.9 65.6 14.7 73.3 12.25 82.05 11.65 86.05 10.6 94.75 9.7 116.9 9.8 115.7 10.55 114.15 12.1 111.1 15.45 109.4 18.15 108.05 22.3 107.7 25.4 106.85 26.6 101.6 28.6 100.15 30.85 97.45 35.35 91.95 36.45 85.45
+L 30 50.5
+Q 27.9 51.1 25.4 52.75 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_1_MEMBER_0_FILL">
+<path fill="#2E2E42" stroke="none" d="
+M 40.55 139.65
+L 41.1 138.85
+Q 39.8 137.05 38.7 134.8 36.45 130.3 37.3 128.1
+L 32.9 126.85 32.7 127.6
+Q 32.35 128.55 31.85 129.5
+L 33.9 132.7
+Q 36.7 136.55 40.55 139.65 Z"/>
+</g>
+
+<g id="superboyTop_svg_01__Path__0_Layer0_0_FILL">
+<path fill="#2E2E42" stroke="none" d="
+M 5.85 6.9
+Q 4.2 3.25 4.95 1.25
+L 0.55 0
+Q 0.4 0.6 0 1.6 2.65 5.55 5.85 6.9 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_2_MEMBER_0_FILL">
+<path fill="#3A3A52" stroke="none" d="
+M 31.55 77.9
+Q 31.75 80.35 32.35 83.2 33.4 88.25 33.8 99.75 34.3 114.2 32.7 124.15
+L 31.8 125.2 32.1 126.65
+Q 33.4 128.5 34.85 129.05 36.45 129.7 37.8 128.5 39.35 116.3 40.25 106.55 40.65 101.65 40.85 95.95 41.1 89 41.15 88.45 47.1 89.65 53.45 88.8 61.05 87.75 62.9 84 64.55 80.55 58.55 75.5 52.7 70.65 45.7 69
+L 31.45 76.05 31.55 77.9
+M 41.8 83.85
+Q 42.3 81.95 43.65 80.5 45.8 78.35 48.85 78.65 52.05 78.95 55.25 81.7 50.45 84.1 41.8 83.85 Z"/>
+</g>
+
+<g id="superboyTop_svg_01__Path__1_0_Layer0_0_FILL">
+<path fill="#3A3A52" stroke="none" d="
+M 21.75 6.35
+Q 22.1 5.55 22.05 4.65 21.45 6.4 20.3 7.45 18.5 9 14.8 9.75 11.2 10.5 8.45 9.1 6.15 7.95 5.45 6.05 3.85 6.2 0.65 6.2 1.2 4.2 2.5 2.85 4.65 0.7 7.7 1 10.9 1.25 14.1 4.05
+L 15 4.9
+Q 16.1 5.8 17 5.95 15.3 4.75 14.3 3.7 12.8 2.1 10.45 1 6.85 -0.75 4.15 0.5 1.6 1.7 0.7 4.35 0 6.45 0 10.8 5.95 12 12.3 11.15 19.9 10.1 21.75 6.35 Z"/>
+</g>
+
+<g id="superboyTop_svg_01__Path__0_0_Layer0_0_FILL">
+<path fill="#3A3A52" stroke="none" d="
+M 0.9 0
+L 0 1.05
+Q 1.3 3.15 3.3 3.4 1.65 2.35 0.9 0 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_3_MEMBER_0_FILL">
+<path fill="#2E2E42" stroke="none" d="
+M 31.45 76.05
+Q 33.25 77.95 36.5 77.65 39.9 77.35 43 74.7 45.9 72.2 46.6 69.8
+L 46.7 67.9 31.45 76.05 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_3_MEMBER_1_FILL">
+<path fill="#4A4A64" stroke="none" d="
+M 44.25 71.7
+L 41.4 74.15 41.65 76.05
+Q 43.45 74.85 44.45 73.65 44.45 72.5 44.25 71.7 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_4_MEMBER_0_MEMBER_0_FILL">
+<path fill="#F9BA85" stroke="none" d="
+M 40.9 15
+L 41.7 13.45
+Q 41.85 12.95 41.8 12.2 41.8 11.75 41.35 10.95
+L 40.9 10.25
+Q 41.2 9.6 40.35 8.35 39.9 7.65 39.35 7.75
+L 38.85 8
+Q 38.25 7.45 37.6 7.7
+L 37.05 8.1
+Q 36.4 7.8 35.9 8.05 35.55 8.2 35.4 8.65 35.3 8.85 35.3 9.05 34.2 9.45 34.8 10.95 35.1 11.7 35.6 12.35
+L 35.35 13
+Q 35.2 13.7 35.4 14.1 35.65 14.5 36.55 14.75 37.05 14.9 38.05 15.1 38.9 15.35 39.35 15
+L 40.9 15 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_4_MEMBER_0_MEMBER_1_FILL">
+<path fill="#E7985D" stroke="none" d="
+M 36.45 10.8
+Q 35.85 11.4 35.6 12.35
+L 36.3 11.45
+Q 37.05 10.6 37.55 10.85 38.35 11.25 37.35 13.35
+L 38.3 12.95
+Q 39.45 12.7 40.5 13.25 39.65 12.1 38.45 12.2
+L 38.6 11.8
+Q 39.8 12.1 39.75 10.9 40.7 11.4 40.9 10.25 40 10.9 39.35 10.2 39.55 11.45 38.4 11.25 38.45 10.5 37.65 10.3 37.05 10.15 36.45 10.8 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_4_MEMBER_1_MEMBER_0_FILL">
+<path fill="#C7DADD" stroke="none" d="
+M 45.1 26.2
+Q 44.4 19.9 42.45 15.55
+L 40.25 16.8
+Q 42.7 26.5 39 35.3 37.15 39.7 34.8 42.15 36 45.2 38.05 47.25 39.1 48.25 39.9 48.65 46.4 38.8 45.1 26.2 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_4_MEMBER_1_MEMBER_1_FILL">
+<path fill="#C7DADD" stroke="none" d="
+M 43.25 15.95
+L 41.75 13.45
+Q 41.05 13.65 39.95 14.45
+L 39 15.2 39.9 17.8 43.25 15.95 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_5_MEMBER_0_FILL">
+<path fill="#DFE9EB" stroke="none" d="
+M 24.85 51.3
+Q 17.05 60.25 16.7 72.9 16.5 79.25 17.85 83.8
+L 20.2 82.85
+Q 19.1 72.9 23.95 64.7 25.45 62.15 27.35 60.05
+L 29 58.5
+Q 28.2 55.3 26.45 52.95
+L 24.85 51.3 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_5_MEMBER_1_FILL">
+<path fill="#DFE9EB" stroke="none" d="
+M 17.15 83.3
+L 18.25 85.95
+Q 19.4 85.75 21.2 84.6
+L 20.7 81.9 17.15 83.3 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_5_MEMBER_2_FILL">
+<path fill="#F9BA85" stroke="none" d="
+M 18.75 85.2
+L 18.45 85.7
+Q 18.2 86.2 18.15 86.45 17.8 88.4 18.3 89.4 18.8 90.3 19.55 89.95 20.2 90.65 21.1 90.55 21.9 91.35 22.6 91 22.9 91.55 23.4 91.55 24 91.6 24.2 90.9 24.4 90.35 24.5 89.4
+L 24.6 88.6
+Q 26.05 88.25 24.65 86.95 23.5 85.5 22.85 85.1 22.5 84.8 21.5 84.7
+L 20.6 84.6 18.75 85.2 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_5_MEMBER_3_FILL">
+<path fill="#DFE9EB" stroke="none" d="
+M 25.15 52.65
+L 27.25 57.75
+Q 29.6 62.05 30.15 72.05 30.25 75.6 30.9 76.15 32.1 77.1 34.85 77.05 38.95 76.95 42.8 73.65 46.7 70.3 47.15 66.9 47.4 64.85 46.25 61.9 44.2 56.65 42.9 53.9 40.35 48.7 36.75 43.75
+L 25.15 52.65 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_5_MEMBER_4_FILL">
+<path fill="#DFE9EB" stroke="none" d="
+M 36.7 51.9
+L 39.05 51.8
+Q 38.75 48.9 36.9 46.65
+L 35.2 49.9 28 52.25 30.2 53.65
+Q 32.95 55.1 35.4 55.5
+L 36.1 52.65
+Q 38.2 56.05 39.8 60.3 42.4 67.2 42.6 73.8
+L 42.8 73.65 43.5 73
+Q 42.95 62.7 36.7 51.9 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_6_MEMBER_0_FILL">
+<path fill="#8C0000" stroke="none" d="
+M 36.95 38.9
+Q 35.35 40.75 32.65 42.7 27.3 46.65 24.25 50.45 20.55 55.05 18.4 61.4 18.8 60.45 19.75 59.15 21.6 56.5 24.2 54.7 26.25 53.3 30.2 52.5 33.8 51.8 35.45 50.3 37.6 48.4 37.75 44.25 37.9 40.9 36.95 38.9 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_6_MEMBER_1_FILL">
+<path fill="#8C0000" stroke="none" d="
+M 37.8 46.85
+Q 36.1 47.05 35.35 49
+L 32.55 51.35
+Q 31.25 52.65 31 53.95 30.8 55.05 31.8 57.05 32.85 59.05 32.7 60.15 33.2 59.6 33.65 58.8 34.6 57.1 34.45 55.6 34.15 52.8 35 51.6
+L 36.8 50 37.3 49.8
+Q 37.95 49.7 38.8 50.15 39.75 50.6 40.25 51.95 40.6 53.05 40.5 53.75 41.1 53.05 41.4 52 42.05 49.95 40.85 48.4 39.55 46.7 37.8 46.85 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_6_MEMBER_2_FILL">
+<path fill="#8C0000" stroke="none" d="
+M 11.65 86.05
+Q 10.95 89.8 8.45 95.85 5.7 102.7 4.95 105.45 3.4 111.35 4.95 116.9 6.85 123.6 12.8 125.6 12.2 124.1 11.7 121.45 10.75 116.1 11.3 110.3 11.65 106.3 11.7 99.15 11.7 97.05 11.65 86.05 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_7_FILL">
+<path fill="#E7985D" stroke="none" d="
+M 26.8 45.75
+Q 27.65 47.45 28.35 49.1 30.15 49.2 34.2 49.15 35 47.3 34.7 45.05 33.25 42.95 32.6 40.55
+L 26.1 44.35 26.8 45.75 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_8_FILL">
+<path fill="#8C0000" stroke="none" d="
+M 35.8 48.9
+Q 34.55 48.15 33.95 48.55 33.2 49.1 33.7 50.6 34.15 52 34.65 52.2 35 52.35 36.2 51.5 37.4 50.6 37.2 50.15 37 49.6 35.8 48.9 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_0_FILL">
+<path fill="#F9BA85" stroke="none" d="
+M 11.35 36.2
+L 14.15 40.7 20.15 45.2 23.8 46.15
+Q 28.25 46.4 32.05 42.95 36.25 39.15 36.15 35.45 36.1 32.4 33.3 30.1 32.8 29.65 28.85 27.1 26.35 25.45 24.55 22.95
+L 11.35 36.2 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_1_MEMBER_0_FILL">
+<path fill="#763C26" stroke="none" d="
+M 25.15 24.65
+Q 26.9 23.7 26.55 22.4 26.15 20.9 24.45 20.7 22.9 20.5 21.1 21.5 22.4 19.9 21.4 19.55 20.65 19.25 19.7 20.35 18.8 21.45 18.7 22.5 17.45 22.95 15.85 23.95 12.65 26.05 10.85 29 9 32.15 9.4 35 9.65 37 10.75 38.2
+L 11.25 40.45
+Q 12.6 42.9 17 43.9
+L 18.9 41.9
+Q 19.5 41.1 19.25 40.1 18.7 38.2 14.25 37.5 16.45 36.85 18.7 35 23.2 31.35 23.35 25.4 24.3 25.15 25.15 24.65 Z"/>
+</g>
+
+<g id="superboyTop_svg_01__Path__2_0_Layer0_0_FILL">
+<path fill="#763C26" stroke="none" d="
+M 11.75 2
+Q 13.05 0.4 12.05 0.05 11.3 -0.25 10.35 0.85 9.45 1.95 9.35 3 8.1 3.45 6.5 4.45 3.3 6.55 1.5 9.5 -0.35 12.65 0.05 15.5 0.3 17.5 1.4 18.7
+L 1.6 20.35
+Q 2.3 22.25 4.75 23.45 5.45 20.1 2.65 17.95 5.15 17.25 7.5 15.1 12.25 10.9 11.8 3.95
+L 13.85 3.85
+Q 16 3.4 16.6 1.85 15.85 1.1 14.45 1.2 13.15 1.25 11.75 2 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_2_FILL">
+<path fill="#F9BA85" stroke="none" d="
+M 22.5 44
+L 18.9 41.9 17.5 42.45
+Q 16.25 43.35 16.7 45.05 17.35 47.3 20 47.25 22.7 47.2 22.5 44 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_3_FILL">
+<path fill="#E7985D" stroke="none" d="
+M 19.6 45.05
+Q 18.5 44.5 19.35 42.95
+L 18.35 43.4
+Q 17.4 44.05 17.75 45 18.25 46.15 19.3 46.15 20.3 46.2 20.9 45.35 20.2 45.35 19.6 45.05 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_4_FILL">
+<path fill="#E7985D" stroke="none" d="
+M 31.3 31.75
+Q 28.85 31.2 28.5 32.05 28.25 32.6 29.55 33.65 30.95 34.7 31.8 34.15 32.75 33.55 32.6 32.75 32.4 32 31.3 31.75 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_5_MEMBER_0_FILL">
+<path fill="#682917" stroke="none" d="
+M 32.45 35.65
+Q 31.65 36.6 31.5 36.7 31.25 36.9 29.1 37.45 27.75 37.85 27.9 38.9 28.15 40.25 29.7 40.5 31.35 40.75 32.75 39.45 34.1 38.25 34.25 36.8 34.35 35.45 33.45 35.25 32.9 35.1 32.45 35.65 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_5_MEMBER_1_FILL">
+<path fill="#F9DDC5" stroke="none" d="
+M 31.2 38.1
+Q 33.3 36.55 32.6 35.45 32.25 35.8 31.5 36.7 31.05 37 29.5 37.35 28.2 37.65 27.95 38.2 29.1 39.6 31.2 38.1 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_0_FILL">
+<path fill="#763C26" stroke="none" d="
+M 21.95 33.25
+Q 21.4 34.8 21.9 34.9 22.4 35 22.9 33.55 23.45 32.1 23 31.9 22.5 31.75 21.95 33.25 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_1_FILL">
+<path fill="#763C26" stroke="none" d="
+M 26.65 27.25
+Q 25.8 27.8 26 28.15 26.25 28.5 27.15 27.95 28 27.4 27.8 27.05 27.55 26.7 26.65 27.25 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_2_FILL">
+<path fill="#1C2235" stroke="none" d="
+M 25.85 34.15
+Q 24.45 33.4 24.15 33.9 23.8 34.5 24.9 35.5 26 36.45 26.6 35.7 27.2 34.95 25.85 34.15 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_3_FILL">
+<path fill="#1C2235" stroke="none" d="
+M 29.7 29.35
+Q 28.65 28.65 28.3 29.1 27.9 29.65 28.95 30.4 30 31.2 30.35 30.6 30.7 30 29.7 29.35 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_4_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 25.45 34.2
+Q 24.9 33.8 24.75 34.1 24.5 34.5 25.1 34.9 25.7 35.35 25.85 34.95 26 34.55 25.45 34.2 Z"/>
+</g>
+
+<g id="Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_5_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 29.35 29.4
+Q 28.9 29.1 28.7 29.3 28.5 29.55 29 29.9 29.5 30.2 29.65 29.95 29.8 29.7 29.35 29.4 Z"/>
+</g>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 51.7,76.6) ">
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_1_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -1.35,53.25) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_1)" xlink:href="#superboyTop_svg_01__Path__0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_2_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 7.45,4.05) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#superboyTop_svg_01__Path__1_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -1.9,50.55) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_2)" xlink:href="#superboyTop_svg_01__Path__0_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_3_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_3_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_4_MEMBER_0_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_4_MEMBER_0_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_4_MEMBER_1_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_4_MEMBER_1_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_5_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_5_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_5_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_5_MEMBER_3_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_5_MEMBER_4_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_6_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_6_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_6_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_7_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_8_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_1_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -24.35,-54.1) ">
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use filter="url(#Filter_3)" xlink:href="#superboyTop_svg_01__Path__2_0_Layer0_0_FILL"/>
+</g>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_3_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_4_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_5_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_5_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_0_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_1_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_2_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_3_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_4_FILL"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, -33.7,-73.6) ">
+<use xlink:href="#Ara_1_0_Layer0_0_MEMBER_0_MEMBER_0_MEMBER_9_MEMBER_6_MEMBER_5_FILL"/>
+</g>
+</g>
+</svg>
