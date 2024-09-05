@@ -22,7 +22,7 @@ async function addGames() {
       project.addEventListener("click", () => {
 		  
     	console.log("acilis");
-		
+		googletag.pubads().refresh();
 	
         HAF.forEach((element) => element.classList.add("hidden"));
         Frame.classList.remove("hidden");
